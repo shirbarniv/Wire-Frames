@@ -1,14 +1,15 @@
 
 .image{
-    padding-left: 37%;
+    padding-left: 29%;
 }
 img{
     vertical-align: top;
-    width: 40%;
+    width: 60%;
     border: solid;
 
 }
 
 p{
     vertical-align: top;
+    text-decoration: underline;
 }
