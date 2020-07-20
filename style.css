@@ -11,5 +11,7 @@ img{
 
 p{
     vertical-align: top;
-    text-decoration: underline;
+    /* text-decoration: underline; */
+    /* font-weight: bold; */
+    font-size: 20px;
 }
